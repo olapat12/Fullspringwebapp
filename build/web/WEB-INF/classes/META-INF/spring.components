@@ -1,0 +1,14 @@
+#
+#Thu Jan 23 10:23:12 GMT+01:00 2020
+com.olajide.LoginController=org.springframework.stereotype.Component
+com.activitiesservice.Activitiesserviceimpl=org.springframework.stereotype.Component
+com.dao.Accountimpo=org.springframework.stereotype.Component
+com.olajide.Pagecontroller=org.springframework.stereotype.Component
+com.service.Customerserimpo=org.springframework.stereotype.Component
+com.olajide.Authorities=javax.persistence.Embeddable
+com.olajide.Securityconfig=org.springframework.stereotype.Component
+com.olajide.Customuserdetails=org.springframework.stereotype.Component
+com.olajide.Transactionss=javax.persistence.Entity,javax.persistence.Table
+com.olajide.PingConfig=org.springframework.stereotype.Component
+com.olajide.Newaccount=javax.persistence.Entity,javax.persistence.Table
+com.activitiesdao.Activitiesimpl=org.springframework.stereotype.Component
