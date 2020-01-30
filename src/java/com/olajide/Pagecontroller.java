@@ -361,8 +361,8 @@ public class Pagecontroller {
        
         int random = (int )(Math.random() * 1000 + 1000);
         String money = String.valueOf(random);
-     final String username = "pcurtis2500@gmail.com";
-    final String password = "mymumis20";
+     final String username = "youremail@gmail.com";
+    final String password = "yourpassword";
     Properties props = new Properties();
     props.put("mail.smtp.auth", "true");
     props.put("mail.smtp.starttls.enable", "true");
